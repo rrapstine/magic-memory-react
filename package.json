@@ -1,6 +1,6 @@
 {
-  "name": "magic-memory-react",
-  "private": true,
+  "name": "react-magic-memory",
+  "private": false,
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

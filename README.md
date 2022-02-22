@@ -1,4 +1,4 @@
-# Welcome to magic-memory-react 👋
+# Welcome to react-magic-memory 👋
 
 ![Version](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000)
 [![Twitter: rrapstine](https://img.shields.io/twitter/follow/rrapstine.svg?style=social)](https://twitter.com/rrapstine)
